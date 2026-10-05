@@ -27,4 +27,4 @@ USER app
 
 EXPOSE 8080
 
-ENTRYPOINT ["./aretheyup"]
+CMD ["./aretheyup"]
