@@ -25,6 +25,4 @@ COPY static ./static
 
 USER app
 
-EXPOSE 8080
-
 CMD ["./aretheyup"]
